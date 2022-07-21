@@ -1,0 +1,1 @@
+[【开发板评测】Renesas RA6M4开发板之ADC、GPIO](https://club.rt-thread.org/ask/article/d6a61a2d915859b0.html "【开发板评测】Renesas RA6M4开发板之ADC、GPIO")
